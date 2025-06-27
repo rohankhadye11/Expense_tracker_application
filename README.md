@@ -67,23 +67,21 @@ A video demonstration of the Expense Tracker application in action can be embedd
 This section will showcase key aspects of the Expense Tracker application through static screenshots.
 
 **Screenshot 1: Main Application View**
-![Alt text](image-path-or-url)
-
+![Alt Text](https://github.com/rohankhadye11/Expense_tracker_application/blob/main/index.png?raw=true)
 - **Description:** This screenshot provides an overview of the application's main interface, highlighting the input form, the list of recorded expenses, and the calculated total.
 
 **Screenshot 2: Adding an Expense**
-![Alt text](image-path-or-url)
+![Alt Text](https://github.com/rohankhadye11/Expense_tracker_application/blob/main/expenseadd.png?raw=true)
 
 - **Description:** Demonstrates the process of adding a new expense, capturing details like amount, category, date, and a brief description.
 
-**Screenshot 3: High Expense Alert (Conceptual)**
-![Alt text](image-path-or-url)
+**Screenshot 3: High Expense Alert (Conceptual)*
+![Alt Text](https://github.com/rohankhadye11/Expense_tracker_application/blob/main/pubsub.png?raw=true)
 
 - **Description:** Illustrates the high expense alert mechanism, showing a notification or the Pub/Sub message generated when an expense exceeds the predefined threshold.
 
 **Screenshot 4: Deleting an Expense**
-![Alt text](deletion.png)
-
+![Alt Text](https://github.com/rohankhadye11/Expense_tracker_application/blob/main/expensedelete.png?raw=true)
 - **Description:** Shows the user interaction for deleting an expense and the immediate update of the expense list.
 
 ## 7\. Usage
